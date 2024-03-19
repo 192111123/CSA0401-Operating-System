@@ -1,5 +1,6 @@
-
  1.System call.txt
+
+ 
  2.system calls to copy the content.txt
  3.CPU scheduling FCFS.txt
  4.Smallest execution time.txt
